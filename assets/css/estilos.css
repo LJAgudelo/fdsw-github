@@ -20,6 +20,10 @@ body {
   background-position: right;
 }
 
+.bgbadera{
+  background-color: brown;
+
+}
 /* Contacto */
 
 #Contacto form label {
@@ -35,5 +39,6 @@ body {
   .navbar-brand{
     width: 100px;
   }
+
 
 }
